@@ -1,0 +1,31 @@
+
+
+*{
+    margin:0 auto;
+    padding:0;
+    box-sizing: border-box;
+}
+h2 {
+    color: white;
+    display: inline;
+
+}
+
+body{
+
+    background-image: url(https://sfondo.info/i/original/0/b/9/67614.jpg);
+    background-size: auto;
+}
+.immagine{
+        line-height: 100px;
+        width: 100px;
+        vertical-align: middle;
+
+.blocco-logo {
+        border-bottom:2px solid: red;
+    }
+
+.mail {
+    background color: green;
+
+}
